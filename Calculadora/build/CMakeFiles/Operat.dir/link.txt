@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Operat.dir/Operations.cpp.o -o Operat 

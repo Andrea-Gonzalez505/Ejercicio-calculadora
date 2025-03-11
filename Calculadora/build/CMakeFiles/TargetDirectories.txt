@@ -1,0 +1,3 @@
+/home/juanma/Calculadora/Ejercicio-calculadora/Calculadora/build/CMakeFiles/Operat.dir
+/home/juanma/Calculadora/Ejercicio-calculadora/Calculadora/build/CMakeFiles/edit_cache.dir
+/home/juanma/Calculadora/Ejercicio-calculadora/Calculadora/build/CMakeFiles/rebuild_cache.dir
