@@ -1,1 +1,1 @@
-# Ejercicio-calculadora
+# Jeimmy Andrea Gonzalez - Juan Manuel Gómez Solano
